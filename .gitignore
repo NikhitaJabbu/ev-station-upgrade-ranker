@@ -12,8 +12,6 @@ FinalSubmissionGuidelines.docx
 ~WRL*.tmp
 .~lock.*
 
-# Large dataset file (download from AFDC directly)
-alt_fuel_stations*.csv
 
 # Large generated outputs (reproducible by running the notebook)
 outputs/ranked_stations*.csv
