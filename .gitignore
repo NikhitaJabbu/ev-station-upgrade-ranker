@@ -1,0 +1,27 @@
+# Reports and proposal (not for repo)
+Capstone_Final_Report.docx
+Capstone_Final_Report.pdf
+Capstone_Proposal.pdf
+FinalSubmissionGuidelines.docx
+
+# Claude internal folder
+.claude/
+
+# Temp Word / LibreOffice lock files
+~$*.docx
+~WRL*.tmp
+.~lock.*
+
+# Large dataset file (download from AFDC directly)
+alt_fuel_stations*.csv
+
+# Large generated outputs (reproducible by running the notebook)
+outputs/ranked_stations*.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.env
